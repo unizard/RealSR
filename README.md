@@ -13,7 +13,7 @@
 
 - Deep Cascaded Bi-Network for Face Hallucination, ECCV2016 
   http://zhusz.github.io/
-- Global-Local Face Upsampling Network, Arxiv 2016
+- Global-Local Face Upsampling Network(http://arxiv.org/abs/1603.07235), Arxiv 2016
 
 
 ## Detail Enhancement - thermal infrared domain
