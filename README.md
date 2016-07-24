@@ -5,6 +5,7 @@
 
 ## Super Resolution
 
+- Accelerating the Super-Resolution Convolutional Neural Network, ECCV2016
 - Accurate image super-resolution using very deep convolutional networks, CVPR2016
 - Deep Edge Guided Recurrent Residual Learning for Image Super-Resolution, Arxiv 2016
 
