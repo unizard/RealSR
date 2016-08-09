@@ -18,11 +18,10 @@
 
 
 ## Detail Enhancement - thermal infrared domain
-
-- New technique for the visualization of high dynamic range infrared images, Optical Engineering 2009.
-- Display and detail enhancement for high-dynamic-range infrared images, Optical Engineering 2011.
-- Detail Enhancement for Infrared Images Based on Propagation Image Filter, Mathematical Problem in Engineering 2016
-
+- [BF-DRP] [New technique for the visualization of high dynamic range infrared images](http://opticalengineering.spiedigitallibrary.org/article.aspx?articleid=1089325), Optical Engineering 2009.
+- [[BF-DDE](http://www.zuochao.org/hdr-ir-image-display-and-detail-enhancement-dde.html)] [Display and detail enhancement for high-dynamic-range infrared images](http://opticalengineering.spiedigitallibrary.org/article.aspx?articleid=1158534), Optical Engineering 2011.
+- [PF-DDE] [Detail Enhancement for Infrared Images Based on Propagation Image Filter](http://www.hindawi.com/journals/mpe/2016/9410368/), Mathematical Problem in Engineering 2016
+- [GF-DDE]
 
 ## Evaluation
 
