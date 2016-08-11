@@ -24,6 +24,12 @@
 - [GF-DDE]
 - [DRCDDE] [Dynamic range compression and detail enhancement algorithm for infrared image](https://www.osapublishing.org/ao/abstract.cfm?uri=ao-53-26-6013), Applied Optics 2014.
 
+
+## Hyperspectral 
+- https://sites.google.com/site/hyperspectralcolorimaging/dataset/general-scenes
+
+
+
 ## Evaluation
 
 - Reference
