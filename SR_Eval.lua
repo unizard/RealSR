@@ -14,8 +14,6 @@ require 'image'
 local pl = require('pl.import_into')()
 
 
-
-
 function eval(cmd)
 	os.execute(cmd)
 end
@@ -33,14 +31,10 @@ function dir( strDir, strType )
 end
 
 
-
 -- img : [0,255] 
 function getNormImage( img )
     return img:float():div(255.0)   
 end
-
-
-
 
 
 function getSharpImage( img, scale )
