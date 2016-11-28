@@ -4,7 +4,7 @@
 
 
 ## Metric for Evaluation 
-[Matlab] PSNR, SSIM, WPSNR, MSSIM [code](http://ivc.uwaterloo.ca/ivc-code.php)
+[Matlab] PSNR, SSIM, WPSNR, MSSIM [code](http://ivc.uwaterloo.ca/ivc-code.php) <br />
 [Torch] PSNR, SSIM, WPSNR, MSSIM [code](SR_Eval.lua)
 
 ## Super Resolution
