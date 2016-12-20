@@ -39,3 +39,7 @@
 - Reference
 - Non-reference
 
+
+## IQA with learning
+- [Learning a No-Reference Quality Metric for Single-Image Super-Resolution](https://arxiv.org/pdf/1612.05890.pdf) accepted CVIU 
+
