@@ -43,3 +43,7 @@
 ## IQA with learning
 - [Learning a No-Reference Quality Metric for Single-Image Super-Resolution](https://arxiv.org/pdf/1612.05890.pdf) accepted CVIU 
 
+
+## x4,x8 SR
+- [[git](https://github.com/junhocho/SRGAN)][Photo-Realistic Single Image Super-Resolution Using a Generative Adversarial Network](https://arxiv.org/pdf/1609.04802v3.pdf)
+
