@@ -47,4 +47,4 @@
 ## x4,x8 SR
 - [[git](https://github.com/junhocho/SRGAN)][Photo-Realistic Single Image Super-Resolution Using a Generative Adversarial Network](https://arxiv.org/pdf/1609.04802v3.pdf)
 
--[EnhanceNet: Single Image Super-Resolution through Automated Texture Synthesis](https://arxiv.org/pdf/1612.07919.pdf), TUM, similar with us
+- [EnhanceNet: Single Image Super-Resolution through Automated Texture Synthesis](https://arxiv.org/pdf/1612.07919.pdf), TUM, similar with us
